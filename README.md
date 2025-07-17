@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b320298-6a87-4e4c-826e-2adccde001e1" /># Hi there 👋, I'm Prathmesh Ghatmal  
+# Hi there 👋, I'm Prathmesh Ghatmal  
 
 💡 **Creating, collaborating, and helping others gives me true happiness.**  
 🚀 I love building impactful products, leading teams, and learning something new every day!  
