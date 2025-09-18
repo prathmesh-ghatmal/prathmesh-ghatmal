@@ -48,7 +48,7 @@
 
 ## 📈 GitHub Stats  
 
-![Prathmesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathmesh-ghatmal&show_icons=true&theme=tokyonight)  
+![Prathmesh's GitHub stats](https://github-stats-livid-beta.vercel.app/api?username=prathmesh-ghatmal&show_icons=true&theme=tokyonight)  
 
 ---
 
