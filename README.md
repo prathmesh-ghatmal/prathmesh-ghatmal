@@ -48,8 +48,10 @@
 
 ## 📈 GitHub Stats  
 
-![Prathmesh's GitHub stats](https://github-stats-livid-beta.vercel.app/api?username=prathmesh-ghatmal&show_icons=true&theme=tokyonight)  
 
+<img height="50%" src="https://github-stats-livid-beta.vercel.app/api?username=prathmesh-ghatmal&show_icons=true&theme=darcula&hide_border=true&count_private=true" />
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-ghatmal&layout=compact&theme=darcula&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh-ghatmal&theme=darcula&hide_border=true" />
 ---
 
 ## 🌐 Connect with Me  
