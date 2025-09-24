@@ -51,7 +51,7 @@
 
 <img height="50%" src="https://github-stats-livid-beta.vercel.app/api?username=prathmesh-ghatmal&show_icons=true&theme=darcula&hide_border=true&count_private=true" />
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-ghatmal&layout=compact&theme=darcula&hide_border=true&langs_count=6" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh-ghatmal&theme=darcula&hide_border=true" />
+ 
 ---
 
 ## 🌐 Connect with Me  
@@ -59,7 +59,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathmesh-ghatmal-610a66340)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/prathmesh-ghatmal)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathmeshghatmal23@gmail.com)  
-
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prathmesh-ghatmal)](https://git.io/streak-stats)
 ---
 
 ✨ *“I believe in learning by building and growing together with the community.”*  
